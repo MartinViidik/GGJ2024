@@ -20,14 +20,28 @@
 				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/V0/38DTJ7Z98A398ZP2FLIFGS.uasset",
 				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/Blueprints/NPCs/BP_PartyCharacter.uasset",
 				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UC/C4T0LRTCD1OHX3K2F1KKV9.uasset",
-				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/Blueprints/NPCs/BP_PartyPawn.uasset",
-				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/Blueprints/NPCs/BP_PartyAIController.uasset",
 				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset",
 				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OU/O14GC9W9WARPXO7ZJO7KEU.uasset",
 				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IH/290TYGRZWCXYZWGR23XTGB.uasset",
 				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/E5/7MEDIRQ39Y3XBXXJQ9J8SB.uasset",
-				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/ThirdPerson/Blueprints/BP_PartyNPC.uasset"
+				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/ThirdPerson/Blueprints/BP_PartyNPC.uasset",
+				"C:/Users/user/GGJ2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset",
+				"C:/Users/user/GGJ2024/Content/Blueprints/NPCs/BP_PartyNPC.uasset",
+				"C:/Users/user/GGJ2024/Content/Blueprints/Components/BPC_DeliveryPoint.uasset",
+				"C:/Users/user/GGJ2024/Content/Blueprints/Components/BPC_PickupComponent.uasset",
+				"C:/Users/user/GGJ2024/Content/Blueprints/Items/BP_FoodPickupPoint.uasset",
+				"C:/Users/user/GGJ2024/Content/Blueprints/Items/BP_Food.uasset",
+				"C:/Users/user/GGJ2024/Content/Blueprints/Items/BP_Cube.uasset",
+				"C:/Users/user/GGJ2024/Content/Blueprints/Items/BP_ResourcePickupPoint.uasset",
+				"C:/Users/user/GGJ2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/user/GGJ2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AU/1FHCO2VC6YAFUHVLTCJEWD.uasset",
+				"C:/Users/user/GGJ2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/C3/4ME76N9ND0A0P64XYDLXU0.uasset",
+				"C:/Users/user/GGJ2024/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UC/C4T0LRTCD1OHX3K2F1KKV9.uasset",
+				"C:/Users/user/GGJ2024/Content/ThirdPerson/Blueprints/BP_PartyNPC.uasset",
+				"C:/Users/user/GGJ2024/Content/Blueprints/NPCs/BP_PartyCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/Blueprints/NPCs/BP_PartyPawn.uasset",
+				"C:/Users/user/Documents/Unreal Projects/GGJ2024/Content/Blueprints/NPCs/BP_PartyAIController.uasset"
 			]
 		}
 	]
